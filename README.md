@@ -2,11 +2,7 @@
   <img width="100%" src="Banner.png"  />
 </div>
 
-###
-
 ##
-
-###
 
 <div id="toc">
   <ul align="center" style="list-style: none">
