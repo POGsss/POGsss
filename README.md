@@ -2,11 +2,21 @@
   <img width="100%" src="Banner.png"  />
 </div>
 
+###
+
 ##
 
 ###
 
-<h3 align="center" style="font-size: 32px;">Hi There! Welcome to my Github! 👋</h3>
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        Hi There! Welcome to my Github! 👋
+      </h1>
+    </summary>
+  </ul>
+</div>
 
 <p align="center">Hello, I'm Frankie! I'm a freelance developer with a strong passion for both technology and creativity. I specialize in web development and computer programming, but I also have a deep appreciation for digital art, including design, animation, and video editing. I love building functional and visually appealing projects that blend both technical and artistic skills.</p>
 
