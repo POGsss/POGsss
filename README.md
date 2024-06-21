@@ -20,7 +20,7 @@
 
 ###
 
-<hr>
+<hr style="height:  1px;">
 
 ###
 
@@ -47,7 +47,7 @@
 
 ###
 
-<hr>
+<hr style="height:  1px;">
 
 ###
 
@@ -70,7 +70,7 @@
 
 ###
 
-<hr>
+<hr style="height:  1px;">
 
 ###
 
