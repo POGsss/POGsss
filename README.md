@@ -29,33 +29,33 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="35" alt="csharp logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=sass" height="50" alt="sass logo"  />
+  <img src="https://skillicons.dev/icons?i=sass" height="35" alt="sass logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="50" alt="kotlin logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="35" alt="kotlin logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
 </div>
 
 ###
@@ -69,25 +69,25 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=unity" height="50" alt="unity logo"  />
+  <img src="https://skillicons.dev/icons?i=unity" height="35" alt="unity logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="50" alt="androidstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="35" alt="androidstudio logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=ae" height="50" alt="adobeaftereffects logo"  />
+  <img src="https://skillicons.dev/icons?i=ae" height="35" alt="adobeaftereffects logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=pr" height="50" alt="adobepremierepro logo"  />
+  <img src="https://skillicons.dev/icons?i=pr" height="35" alt="adobepremierepro logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=ps" height="50" alt="adobephotoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=ps" height="35" alt="adobephotoshop logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=ai" height="50" alt="adobeillustrator logo"  />
+  <img src="https://skillicons.dev/icons?i=ai" height="35" alt="adobeillustrator logo"  />
 </div>
 
 ###
