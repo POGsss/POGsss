@@ -1,13 +1,13 @@
-<h1 align="center">⚡ Hi There! Welcome to my Github Profile!⚡</h1>
-
-###
-
-
 <div align="center">
   <img width="100%" src="Banner.png"  />
 </div>
 
 ###
+
+<h1 align="center">⚡ Hi There! Welcome to my Github Profile!⚡</h1>
+
+###
+
 
 <p align="center">Hello, I'm Frankie! I'm a freelance developer with a strong passion for both technology and creativity. I specialize in web development and computer programming, but I also have a deep appreciation for digital art, including design, animation, and video editing. I love building functional and visually appealing projects that blend both technical and artistic skills.</p>
 
@@ -29,33 +29,33 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="30" alt="sass logo"  />
+  <img src="https://skillicons.dev/icons?i=sass" height="50" alt="sass logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="50" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
 </div>
 
 ###
@@ -69,25 +69,25 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo"  />
+  <img src="https://skillicons.dev/icons?i=unity" height="50" alt="unity logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="50" alt="androidstudio logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="30" alt="adobeaftereffects logo"  />
+  <img src="https://skillicons.dev/icons?i=ae" height="50" alt="adobeaftereffects logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  />
+  <img src="https://skillicons.dev/icons?i=pr" height="50" alt="adobepremierepro logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=ps" height="50" alt="adobephotoshop logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
+  <img src="https://skillicons.dev/icons?i=ai" height="50" alt="adobeillustrator logo"  />
 </div>
 
 ###
