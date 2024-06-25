@@ -1,10 +1,11 @@
-<div align="center">
-  <img width="100%" src="Banner.png"  />
-</div>
+<h1 align="center">⚡ Hi There! Welcome to my Github Profile!⚡</h1>
 
 ###
 
-<h1 align="center">⚡ Hi There! Welcome to my Github Profile!⚡</h1>
+
+<div align="center">
+  <img width="100%" src="Banner.png"  />
+</div>
 
 ###
 
@@ -22,8 +23,6 @@
 <hr>
 
 ###
-
-<br clear="both">
 
 <h3 align="left">Languages & Frameworks</h3>
 
