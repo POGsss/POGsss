@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://media.licdn.com/dms/image/v2/D4D16AQF9BUvm6XI_sg/profile-displaybackgroundimage-shrink_350_1400/B4DZXM10qkGkAg-/0/1742898416782?e=1748476800&v=beta&t=lVg-GcWXFblECyYt5D8Y4iJ-PA9CsK2PjPFBmxjHn8g"  />
+  <img width="100%" src="https://media.licdn.com/dms/image/v2/D4D16AQF9BUvm6XI_sg/profile-displaybackgroundimage-shrink_350_1400/B4DZXM10qkGkAg-/0/1742898416782?e=1748476800&v=beta&t=lVg-GcWXFblECyYt5D8Y4iJ-PA9CsK2PjPFBmxjHn8g"  />
 </div>
 
 ###
@@ -13,8 +13,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=POGsss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&custom_title=Github%20Stats" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=POGsss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=POGsss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&custom_title=Github%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=POGsss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
