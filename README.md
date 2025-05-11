@@ -63,7 +63,9 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
-  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo"  />
 </div>
 
 ###
