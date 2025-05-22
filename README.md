@@ -59,8 +59,6 @@
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=gulp" height="50" alt="gulp logo"  />
-  <img src="https://skillicons.dev/icons?i=jquery" height="50" alt="jquery logo"  />
   <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
@@ -68,6 +66,8 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
   <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo"  />
   <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=gulp" height="50" alt="gulp logo"  />
+  <img src="https://skillicons.dev/icons?i=jquery" height="50" alt="jquery logo"  />
 </div>
 
 ###
