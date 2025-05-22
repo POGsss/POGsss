@@ -59,6 +59,8 @@
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=gulp" height="50" alt="gulp logo"  />
+  <img src="https://skillicons.dev/icons?i=jquery" height="50" alt="jquery logo"  />
   <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
@@ -81,6 +83,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
   <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="50" alt="visual studio logo"  />
   <img src="https://skillicons.dev/icons?i=unity" height="50" alt="unity logo"  />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="50" alt="androidstudio logo"  />
   <img src="https://skillicons.dev/icons?i=ae" height="50" alt="adobeaftereffects logo"  />
